@@ -1,7 +1,7 @@
 const CONFIG = {
-  titleWeb: "Thuydot",
-  introTitle: "Thuydot no1",
-  introDesc: `Thủy dốt no1`,
+  titleWeb: "Noandot",
+  introTitle: "Noandot no1",
+  introDesc: `Noan dốt no1`,
   btnIntro: "nhấn vòa đây để chứng minh mình k dốt",
   title: "Bạn có ngu ko",
   desc: "chắc là có cùng có thể là ko ",
@@ -13,5 +13,5 @@ const CONFIG = {
   mess: "Mình biết mà 🥰.",
   messDesc: "Tối nay nhớ học lại tiếng việt nhé.",
   btnAccept: "Okiiiii lun <3",
-  messLink: "https://www.facebook.com/profile.php?id=100012622455423",
+  messLink: "https://www.facebook.com/llnoann39",
 };
